@@ -6,7 +6,7 @@ target/
 ### IntelliJ IDEA ###
 /.idea/
 
-### VS Code ###
+### Ignore logs ###
 logs/
 
 ### VS Code ###
